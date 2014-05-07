@@ -3,4 +3,5 @@ markdown: redcarpet
 pygments: true
 encoding: utf-8
 port: 3000
-baseurl: /aldiaa.github.io
+url: http://aldiaa.github.io
+baseurl: /
