@@ -1,6 +1,6 @@
-name: bee
+name: aldiaa
 markdown: redcarpet
 pygments: true
 encoding: utf-8
 port: 3000
-baseurl: /aldiaa.github.io
+baseurl: /
