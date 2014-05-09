@@ -98,8 +98,8 @@ footer {
 	padding: 0;
 	list-style: none;
 	background-color: #f2f2f2;
-	border-bottom: 1px solid #ccc; 
-	border-top: 1px solid #ccc; }
+	border-bottom: 2px solid #ccc; 
+	border-top: 2px solid #ccc; }
 #nav li {
 	direction: rtl;
 	float: right; }
