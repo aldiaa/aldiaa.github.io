@@ -42,6 +42,7 @@ nav ul, ul.entries {
   list-style-type: none;
   direction: rtl;
   text-align: left\9;  /* IE8/9 */
+  
 }
 nav li a {
   float: right;
@@ -52,6 +53,7 @@ nav li a {
   text-align: left\9;  /* IE8/9 */
   padding-right: .9em;
   margin: 1em 0;
+  
 }
 .content {
   padding: 10px;
@@ -61,9 +63,9 @@ nav li a {
 ul.entries li {
   position: relative;
   margin: 20px auto;
-  padding: 20px;
+  padding: 10px;
   background: #ececec;
-  width: 600px;
+  width: 500px;
 }
  
 ul.entries img {
@@ -88,3 +90,27 @@ footer {
   text-align: center;
   direction: rtl;
 }
+#nav {
+	width: 100%;
+	direction: rtl;
+	float: right;
+	margin: 0 0 3em 0;
+	padding: 0;
+	list-style: none;
+	background-color: #f2f2f2;
+	border-bottom: 1px solid #ccc; 
+	border-top: 1px solid #ccc; }
+#nav li {
+	direction: rtl;
+	float: right; }
+#nav li a {
+	display: block;
+	padding: 8px 15px;
+	text-decoration: none;
+	font-weight: bold;
+	color: #069;
+	direction: rtl;
+	border-right: 1px solid #ccc; }
+#nav li a:hover {
+	color: #c00;
+	background-color: #fff; }
