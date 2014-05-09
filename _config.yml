@@ -2,6 +2,7 @@ name: bee
 markdown: redcarpet
 pygments: true
 encoding: utf-8
+comments: true
 port: 3000
 baseurl: http://aldiaa.github.io
 
